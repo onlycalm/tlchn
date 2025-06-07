@@ -8,3 +8,5 @@
     * zlib-1.2.11: zlib v1.2.11源码
 * icu
     * icu-70.1: icu v70.1源码
+* pcre2
+    * pcre2-10.39: pcre2 v10.39源码
