@@ -10,3 +10,5 @@
     * icu-70.1: icu v70.1源码
 * pcre2
     * pcre2-10.39: pcre2 v10.39源码
+* libffi
+    * libffi-3.4.2: libffi v3.4.2源码
